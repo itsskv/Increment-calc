@@ -1,1 +1,1 @@
-# Increment-calc using this file you will alble to calculate how much percentage of increment you get.
+# Increment-calc using this file you will able to calculate how much percentage of increment you get.
